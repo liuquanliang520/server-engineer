@@ -1,13 +1,14 @@
 Knowledge Structure
 ========
 
-## 服务端开发知识结构
+## 全栈开发知识结构（工作中接触&使用,偏后端）
 
 - 服务端工程师
   - 编程语言
     - [Nodejs](https://nodejs.org/en/)
     - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/) / [CoffeeScript](https://coffeescript.org/)
     - [Golang](https://golang.org/)
+    - [Java](https://www.java.com/en/)
   - 数据库
     - [mongodb](https://www.mongodb.com/)
     - [redis](https://redis.io)
@@ -23,8 +24,8 @@ Knowledge Structure
     - [RANCHER](https://rancher.com/)
     - [Docker](https://www.docker.com/)
   - 服务发现 *
-    - [CoreDNS](https://coredns.io/)
     - [Etcd](https://etcd.io/)
+    - [CoreDNS](https://coredns.io/)
     - [Zookeeper](https://zookeeper.apache.org/)
   - 远程调用 *
     - [gRPC](https://www.grpc.io/)
@@ -65,7 +66,41 @@ Knowledge Structure
     - [Travis CI](https://www.travis-ci.org/)
   - 应用及镜像 ***
     - [Helm](https://helm.sh/)
+- ServerLess
+  - 持续更新中...
 
-## Serverless
+## Nodejs/JavaScript
 
-- 持续更新中...
+- Frame
+  - [Express](https://expressjs.com/)
+  - [Koa](https://koajs.com/)
+
+- Code Quality
+  - Style
+    - [ESLint](https://github.com/eslint/eslint)
+    - [JSLint](http://www.jslint.com/)
+  - Unit Test
+    - [Mocha](https://mochajs.org/)
+    - [should.js](https://github.com/tj/should.js)
+    - [Chai](https://www.chaijs.com/)
+    - [AVA](https://github.com/avajs/ava)
+  - Automated Test
+    - 持续更新中...
+
+## 书籍推荐
+
+## Other
+
+- IDE
+  - [Sublime Text](http://www.sublimetext.com/)
+  - [Notepad++](https://notepad-plus-plus.org/)
+  - [Atom](https://atom.io/)
+  - [WebStorm](https://www.jetbrains.com/webstorm/)
+  - [Eclipse](https://www.eclipse.org/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [GoLand](https://www.jetbrains.com/go/promo/)
+- Version Management
+  - [Git](https://git-scm.com/)
+  - [GitLab](https://gitlab.com)
+- Debugger Tools
+  - [Charles](https://www.charlesproxy.com/)
